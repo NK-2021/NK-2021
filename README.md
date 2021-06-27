@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neena Khan</h1>
-<h3 align="center">A passionate frontend developer from India with a zeal of learning something new, working as a Senior Frontend Engineer in RSA</h3>
+<h3 align="center">A passionate frontend developer with a zeal of learning something new, working as a Senior Frontend Engineer in RSA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nk-2021&label=Profile%20views&color=0e75b6&style=flat" alt="nk-2021" /> </p>
 
