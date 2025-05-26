@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Neena Khan</h1>
-<h3 align="center">A passionate frontend developer with a zeal of learning something new, working as a Senior Frontend Engineer in RSA</h3>
+<h4 align="center">A former Frontend Engineer with 9+ years of experience in building intuitive, scalable user interfaces. While I’ve spent most of my career in frontend development, I recently discovered a deep passion for data — from uncovering insights through analysis to exploring the possibilities of data science and machine learning.
+
+After completing my MBA in Business Intelligence and Analytics, I began transitioning into the data space, working on projects involving data wrangling, visualization, NLP, and Generative AI. This GitHub is a reflection of my ongoing journey — where code meets curiosity, and every dataset tells a story.</h4>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nk-2021&label=Profile%20views&color=0e75b6&style=flat" alt="nk-2021" /> </p>
 
